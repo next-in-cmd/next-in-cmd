@@ -7,6 +7,11 @@
 I have gained strong proficiency in programming languages such as Python, C++, and SQL. Additionally, I have focused on backend web development, working with frameworks like Django.
 <br>Currently, I am gaining valuable hands-on experience as a SWE Intern at Samku EV, where I am further developing my technical skills and contributing to real-world projects.</p>
 
+- 🔭 I’m currently working on [SamkuService](https://samku-project1.vercel.app/)
+
+- 🌱 I’m currently learning  **DevOps**
+
+
 ###
 
 <h2 align="left">Languages and Tools:</h2>
@@ -43,4 +48,7 @@ I have gained strong proficiency in programming languages such as Python, C++, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
+###
+
+- 📫 How to reach me **karanlande2004@gmail.com**
 
