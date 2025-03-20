@@ -1,12 +1,5 @@
 <h1 align="left">Hey 👋 I'm Karan Lande</h1>
 
-###
-
-<p align="left">I'm a passionate Python developer who loves coding and building interesting applications. As a lifelong learner, I’m always exploring new technologies to grow and improve my skills. Coding is my way of creating, solving, and constantly evolving with tech.</p>
-
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
