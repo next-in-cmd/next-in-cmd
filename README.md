@@ -4,7 +4,8 @@
 ###
 
 <p align="left">I'm Python Developer always exploring new technologies to grow and improve my skills. Coding is my way of creating, solving, and constantly evolving with tech. 
-I have gained strong proficiency in programming languages such as Python, C++, and SQL. Additionally, I have focused on backend web development, working with frameworks like Django.<br>Currently, I am gaining valuable hands-on experience as a SWE Intern at Samku EV, where I am further developing my technical skills and contributing to real-world projects.</p>
+I have gained strong proficiency in programming languages such as Python, C++, and SQL. Additionally, I have focused on backend web development, working with frameworks like Django.
+<br>Currently, I am gaining valuable hands-on experience as a SWE Intern at Samku EV, where I am further developing my technical skills and contributing to real-world projects.</p>
 
 ###
 
