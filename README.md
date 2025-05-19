@@ -22,7 +22,7 @@ Full stack project structure and how to manage scalable, maintainable codebases
 
 ###
 
-<h2 align="left">Languages and Tools:</h2>
+# <h2 align="left">Languages and Tools:</h2>
 
 ###
 
