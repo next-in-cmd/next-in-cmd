@@ -1,3 +1,4 @@
+## 👋 Hi there! I'm Karan Lande
 I'm a passionate and curious Software Developer currently focused on building real-world, scalable web applications. I recently completed a full stack development internship as an SDE Intern at SamkuEVC, where I contributed to building the company's official EV servicing platform.
 
 ## 🚀 What I've Been Working On:
@@ -57,5 +58,10 @@ Full stack project structure and how to manage scalable, maintainable codebases
 
 ###
 
+
+# 📈 My Goal:
+To keep growing as a Full Stack Developer and work on impactful projects that combine performance, accessibility, and great user experience. I'm also excited about exploring DevOps, database design, and AI integrations in the future.
+
 - 📫 How to reach me **karanlande2004@gmail.com**
 
+###
