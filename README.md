@@ -1,13 +1,22 @@
-<h1 align="left">Hey 👋 I'm Karan Lande</h1>
+I'm a passionate and curious Software Developer currently focused on building real-world, scalable web applications. I recently completed a full stack development internship as an SDE Intern at SamkuEVC, where I contributed to building the company's official EV servicing platform.
 
+## 🚀 What I've Been Working On:
+Developed full-stack features like an EV service center locator, charging station application form, and product inquiry modules using React.js, Tailwind CSS, and NodeJS.
 
-###
+Integrated frontend with backend REST APIs for real-time data handling and seamless user experience.
 
-<p align="left">I'm Python Developer always exploring new technologies to grow and improve my skills. Coding is my way of creating, solving, and constantly evolving with tech. 
-I have gained strong proficiency in programming languages such as Python, C++, and SQL. Additionally, I have focused on backend web development, working with frameworks like Django.
-<br>Currently, I am gaining valuable hands-on experience as a SDE Intern at Samku EV, where I am further developing my technical skills and contributing to real-world projects.</p>
+Applied SEO best practices and implemented performance optimizations like lazy loading, image compression, and code splitting to enhance site speed and visibility.
 
-- 📖 I’m currently learning  **DevOps**
+Gained hands-on experience in design collaboration using Figma and version control through Git/GitHub in a real team environment.
+
+## 🧠 What I'm Learning:
+Advanced JavaScript and React patterns (Hooks, Context API, Reusability)
+
+Backend logic with Flask and REST APIs, including API security and data validation
+
+Deployment workflows and optimization techniques for production-ready applications
+
+Full stack project structure and how to manage scalable, maintainable codebases
 
 
 ###
